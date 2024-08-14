@@ -1,0 +1,1 @@
+ /Users/mac/Desktop/项目/flutter项目/flutter_message/flutter_message/.dart_tool/flutter_build/ec852543e6e773592522279d3b1b4a3f/native_assets.yaml: 
